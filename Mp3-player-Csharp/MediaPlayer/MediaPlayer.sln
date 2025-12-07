@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaPlayer", "MediaPlayer.csproj", "{0624F1CF-6764-402A-924D-85662388D48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestareAplicatie", "..\TestareAplicatie\TestareAplicatie.csproj", "{3409D0DC-3E76-4A84-9BD8-7340A4F7D7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0624F1CF-6764-402A-924D-85662388D48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0624F1CF-6764-402A-924D-85662388D48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0624F1CF-6764-402A-924D-85662388D48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0624F1CF-6764-402A-924D-85662388D48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3409D0DC-3E76-4A84-9BD8-7340A4F7D7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3409D0DC-3E76-4A84-9BD8-7340A4F7D7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3409D0DC-3E76-4A84-9BD8-7340A4F7D7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3409D0DC-3E76-4A84-9BD8-7340A4F7D7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9D70E6-78A4-471E-BB04-5DC3AC39F861}
+	EndGlobalSection
+EndGlobal
